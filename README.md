@@ -19,10 +19,6 @@ Address overpopulation concerns with our comprehensive crowd management solution
 ## 🤝 Contribution
 Contributions to our crowd management solution are welcome! Feel free to fork our repositories, open issues, or submit pull requests to enhance functionality and improve crowd control measures.
 
-## 📞 Contact Us
-For inquiries or assistance, feel free to reach out:
-- Email: saggujasmit2@gmail.com
-
 ## 🙏 Acknowledgements
 We extend our gratitude to the developers and contributors of OpenCV, YOLOv8, and Telegram API for their invaluable tools and support in developing our crowd management solution.
 
